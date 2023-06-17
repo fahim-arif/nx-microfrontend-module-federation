@@ -1,0 +1,1 @@
+(self.webpackChunkabout=self.webpackChunkabout||[]).push([[61],{61:(e,t,r)=>{r.r(t);var n=r(619),o=r(29),u=r(504),a=r(903);o.s(document.getElementById("root")).render((0,a.tZ)(n.StrictMode,{children:(0,a.tZ)(u.Z,{})}))}}]);

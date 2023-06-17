@@ -1,0 +1,1 @@
+(self.webpackChunkabout=self.webpackChunkabout||[]).push([[283],{283:(a,u,e)=>{e.r(u),e.d(u,{default:()=>b.Z});var b=e(504)}}]);
